@@ -1,1 +1,1 @@
-creating a recipe site using html and css.
+creating a recipe site using html and css for the odin project.
